@@ -133,12 +133,12 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="Hyg-9c-w2I">
-                                <rect key="frame" x="156" y="139" width="63" height="30"/>
+                                <rect key="frame" x="156" y="139" width="67" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ag3-7g-jLN">
-                                        <rect key="frame" x="0.0" y="0.0" width="63" height="30"/>
-                                        <state key="normal" title="Compete"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="67" height="30"/>
+                                        <state key="normal" title="Complete"/>
                                         <connections>
                                             <action selector="completeTapped:" destination="7QW-MR-Y33" eventType="touchUpInside" id="d47-Vz-hIL"/>
                                         </connections>
